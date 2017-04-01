@@ -1,11 +1,12 @@
 {
   "host": "localhost",
   "port": 3030,
+  "mariadb": "mariadb://root:@localhost:3306/myApp",
   "public": "../public/",
   "auth": {
     "idField": "id",
     "token": {
-      "secret": "ptMOHtu+BA0KWJA3m3TStGhAwatKVr9CQfJwP5hik5rZGDBsmQw7OQNqaYSQFXJzt6XQIGJDLVcH05kx1+kMEg=="
+      "secret": "BUCeFUyXUthYZrsPCHOaMMT/0mn1UjM8XmbjwVzRY9au3YuBE6CN9/Z4YL6qo0ELLitu9HJHou7TN3qOT2+i/A=="
     },
     "local": {},
     "bitbucket": {
