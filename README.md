@@ -1,6 +1,6 @@
 # [Feathers](http://feathersjs.com/) configuration test
 
-**Generated apps with stanard database config. Available branches:**
+**Generated app with standard database config. Available branches:**
 
 * [Memory](https://github.com/jerolimov/feathers-generated-apps/tree/memory)
 * [MariaDB](https://github.com/jerolimov/feathers-generated-apps/tree/mariadb)
