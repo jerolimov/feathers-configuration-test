@@ -1,11 +1,12 @@
 {
   "host": "localhost",
   "port": 3030,
+  "mssql": "mssql://root:@localhost:1433/myApp",
   "public": "../public/",
   "auth": {
     "idField": "id",
     "token": {
-      "secret": "ptMOHtu+BA0KWJA3m3TStGhAwatKVr9CQfJwP5hik5rZGDBsmQw7OQNqaYSQFXJzt6XQIGJDLVcH05kx1+kMEg=="
+      "secret": "q7ZXc3doalKtRp55ikDpdxiQyE+Xkc5n666qSEajlQ4Er0xuGm5zwNLT6/QafOt1VUoRI/rSo/grAxyzlKloWw=="
     },
     "local": {},
     "bitbucket": {
