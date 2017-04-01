@@ -1,11 +1,11 @@
 {
   "host": "localhost",
   "port": 3030,
+  "nedb": "../data/",
   "public": "../public/",
   "auth": {
-    "idField": "id",
     "token": {
-      "secret": "ptMOHtu+BA0KWJA3m3TStGhAwatKVr9CQfJwP5hik5rZGDBsmQw7OQNqaYSQFXJzt6XQIGJDLVcH05kx1+kMEg=="
+      "secret": "23zKll6ESz3Flb6p79wHneVTfjMUAbSipoqetRE2fMnlrVZzwvb+2riWlrbiKX4idq6pjwQ8/hiRxuAZTJe0xg=="
     },
     "local": {},
     "bitbucket": {
