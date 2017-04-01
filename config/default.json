@@ -1,11 +1,12 @@
 {
   "host": "localhost",
   "port": 3030,
+  "postgres": "postgres://postgres:@localhost:5432/myApp",
   "public": "../public/",
   "auth": {
     "idField": "id",
     "token": {
-      "secret": "ptMOHtu+BA0KWJA3m3TStGhAwatKVr9CQfJwP5hik5rZGDBsmQw7OQNqaYSQFXJzt6XQIGJDLVcH05kx1+kMEg=="
+      "secret": "J4KdvwtOlRzvKNOa/SPchY3/rQGZkcccMQFwa4Aono8NGv735g4fqf2/Zs26yviU7t1d0ZBpRona/1weehBS1g=="
     },
     "local": {},
     "bitbucket": {
