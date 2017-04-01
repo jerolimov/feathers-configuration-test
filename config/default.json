@@ -1,11 +1,11 @@
 {
   "host": "localhost",
   "port": 3030,
+  "mongodb": "mongodb://localhost:27017/myApp",
   "public": "../public/",
   "auth": {
-    "idField": "id",
     "token": {
-      "secret": "ptMOHtu+BA0KWJA3m3TStGhAwatKVr9CQfJwP5hik5rZGDBsmQw7OQNqaYSQFXJzt6XQIGJDLVcH05kx1+kMEg=="
+      "secret": "ScYuxSy71DZ4Fbg/FB+m75Ugs5Csj1JpivLO39b5uIHuArpMzMtNwpAZVfKZtcMXZZad/jJBZo/QIoI9cegPqA=="
     },
     "local": {},
     "bitbucket": {
