@@ -1,6 +1,7 @@
 {
   "host": "my-app-app.feathersjs.com",
   "port": 80,
+  "sqlite": "SQLITE_DB",
   "public": "../public/",
   "auth": {
     "idField": "id",

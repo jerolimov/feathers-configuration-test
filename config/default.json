@@ -1,11 +1,12 @@
 {
   "host": "localhost",
   "port": 3030,
+  "sqlite": "../data/myApp.sqlite",
   "public": "../public/",
   "auth": {
     "idField": "id",
     "token": {
-      "secret": "ptMOHtu+BA0KWJA3m3TStGhAwatKVr9CQfJwP5hik5rZGDBsmQw7OQNqaYSQFXJzt6XQIGJDLVcH05kx1+kMEg=="
+      "secret": "sUMj1882c7FQidm/NNPljVEECiJmXJl/MwW80g98PVr/npSW1/WftUo3jobc9NnTMsmXEe0hK/Dewv3K9EFkgg=="
     },
     "local": {},
     "bitbucket": {
