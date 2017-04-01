@@ -1,11 +1,12 @@
 {
   "host": "localhost",
   "port": 3030,
+  "mysql": "mysql://root:@localhost:3306/myApp",
   "public": "../public/",
   "auth": {
     "idField": "id",
     "token": {
-      "secret": "ptMOHtu+BA0KWJA3m3TStGhAwatKVr9CQfJwP5hik5rZGDBsmQw7OQNqaYSQFXJzt6XQIGJDLVcH05kx1+kMEg=="
+      "secret": "wOnxPjr0sIV7VR79tBKAdSJNNsDBl91TnuVPqAUdOaBKNxUkWdiolx7N4+0UnkIEkrf0jYW2renfPbnfq3b+Og=="
     },
     "local": {},
     "bitbucket": {
